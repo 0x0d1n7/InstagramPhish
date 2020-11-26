@@ -14,7 +14,8 @@ Do not click on any links listed in the email message, and do not open any attac
 ```
 git clone https://github.com/Muhidiny/InstagramPhish.git
 cd InstagramPhish
-chmod +x 
+chmod +x InstagramPhish.sh
+./InstagramPhish.sh
 ```
 
 ## Legal disclaimer:
